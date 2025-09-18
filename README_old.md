@@ -18,17 +18,17 @@ Models & decoding → Boot sequence → Identity/Affect scaffolds → C.R.I.S.I.
 Spezia, R. (2025). *Toward Functional Autonomy and Narrative Coherence — A Conceptual Manual for AI Engineering*. Zenodo. DOI: _to be added_.
 
 ---
+## 🌿 Support my explorations
+If this manual helped you or opened a path, you can support it with a free gesture.
+No paywalls—just gratitude and continuity.
 
-## 💚 Support / Dona
-If this manual helps your work, you can support it:
+- GitHub Sponsors: **[Sponsor this project](https://github.com/sponsors/<your-username>)**
+- Ko-fi: **https://ko-fi.com/<your-username>**
+- Buy Me a Coffee: **https://buymeacoffee.com/<your-username>**
+- PayPal: **https://paypal.me/<your-username>**
+- Open Collective: **https://opencollective.com/<your-collective>**
 
-- GitHub Sponsors: **<add your sponsors link>**
-- Ko‑fi: **<add link>**
-- BuyMeACoffee: **<add link>**
-- PayPal: **<add link>**
-- Open Collective: **<add link>**
-
-> 🇮🇹 Donazioni libere: non danno diritto a licenze esclusive o servizi. Per usi commerciali/consulenza contattami.
+> The work remains under **CC BY-NC-SA 4.0**. Contributions do not grant exclusive content; they simply fuel further research and care.
 
 ### Optional – Crypto
 - BTC: `your_btc_address`
