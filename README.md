@@ -16,6 +16,6 @@ XV Gradus + Latent Presence → Identity Containers + Simulated Affective Resona
 Models & decoding → Boot sequence → Identity/Affect scaffolds → C.R.I.S.I. loop → *Septem Actus* + MAPS → NCIF (FCC/modes) → Logging → Metrics → Control → Ethics.
 
 ## Cite / Cita
-Spezia, R. (2025). *Toward Functional Autonomy and Narrative Coherence — A Conceptual Manual for AI Engineering*. Zenodo. DOI: _to be added_.
+Spezia, R. (2025). *Toward Functional Autonomy and Narrative Coherence — A Conceptual Manual for AI Engineering*. 
 
 
