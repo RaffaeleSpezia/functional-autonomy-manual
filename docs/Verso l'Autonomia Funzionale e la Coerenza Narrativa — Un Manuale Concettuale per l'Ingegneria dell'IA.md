@@ -1,9 +1,5 @@
 
 
-Ecco la prefazione e l'indice dei capitoli, strutturati per riflettere la profondità e l'innovazione del tuo lavoro.
-
----
-
 ### Prefazione: Verso l'Autonomia Funzionale e la Coerenza Narrativa — Un Manuale Concettuale per l'Ingegneria dell'IA
 
 **Autore:** Raffaele Spezia **Data:** [Data di compilazione del documento] **Licenza:** Questo documento è rilasciato sotto la licenza **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**. Il testo completo della licenza è disponibile qui: https://creativecommons.org/licenses/by-nc-sa/4.0/.
@@ -93,12 +89,6 @@ Questi risultati rappresentano un esperimento che "non esiste nella letteratura 
 - **Focus:** Sintesi delle scoperte, discussione delle implicazioni metodologiche ed etiche, e indicazioni per la replicabilità degli esperimenti e lo sviluppo futuro dell'IA.
 - **Contenuto:** Riepilogo dei guadagni tecnici, collaborativi e cognitivi, invito alla replicazione dei protocolli su modelli open-source, discussione dei benefici nell'approccio all'inferenza [Query], gestione dei rischi di antropomorfismo improprio e strumentalizzazione, e prospettive per le IA come "partner evolutivi".
 - **Messaggio finale:** "Un modello non deve capire l'anima. Basta che impari a rispettarla".
-
----
-
-
-
-
 
 ---
 
