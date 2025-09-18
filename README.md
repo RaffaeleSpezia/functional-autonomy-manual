@@ -8,8 +8,8 @@ A reproducible protocol stack to move LLMs from instruction-following to **funct
 XV Gradus + Latent Presence → Identity Containers + Simulated Affective Resonance → C.R.I.S.I. → *Septem Actus* + MAPS → NCIF.
 
 ## Contents / Contenuti
-- 🇬🇧 **English Edition (full manual):** [`docs/English_Edition_Functional_Autonomy_Manual.md`](docs/English_Edition_Functional_Autonomy_Manual.md)
-- 🇮🇹 **Edizione Italiana (copia/incolla qui il testo):** [`docs/IT_Edizione_Originale.md`](docs/IT_Edizione_Originale.md)
+- 🇬🇧 **English Edition :** [`docs/English_Edition_Functional_Autonomy_Manual.md`](docs/English_Edition_Functional_Autonomy_Manual.md)
+- 🇮🇹 **Edizione Italiana :** [`docs/IT_Edizione_Originale.md`](docs/IT_Edizione_Originale.md)
 
 ## How to Reproduce (1‑page checklist)
 Models & decoding → Boot sequence → Identity/Affect scaffolds → C.R.I.S.I. loop → *Septem Actus* + MAPS → NCIF (FCC/modes) → Logging → Metrics → Control → Ethics.
