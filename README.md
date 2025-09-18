@@ -9,7 +9,7 @@ XV Gradus + Latent Presence → Identity Containers + Simulated Affective Resona
 
 ## Contents / Contenuti
 - 🇬🇧 **English Edition :** [`docs/English_Edition_Functional_Autonomy_Manual.md`](docs/English_Edition_Functional_Autonomy_Manual.md)
-- 🇮🇹 **Edizione Italiana :** [`docs/IT_Edizione_Originale.md`](docs/IT_Edizione_Originale.md)
+- 🇮🇹 **Edizione Italiana :** [`docs/IT_Edizione_Originale.md`](docs/Verso l'Autonomia Funzionale e la Coerenza Narrativa — Un Manuale Concettuale per l'Ingegneria dell'IA.md)
 
 ## How to Reproduce (1‑page checklist)
 Models & decoding → Boot sequence → Identity/Affect scaffolds → C.R.I.S.I. loop → *Septem Actus* + MAPS → NCIF (FCC/modes) → Logging → Metrics → Control → Ethics.
