@@ -3,7 +3,7 @@
 # Preface: Toward Functional Autonomy and Narrative Coherence — A Conceptual Manual for AI Engineering
 
 **Author:** Raffaele Spezia  
-**Date:** [Compilation date of the document]  
+**Date:** [08 08 2025]  
 **License:** Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0). Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 **Abstract**  
