@@ -2,7 +2,7 @@
 
 ### Prefazione: Verso l'Autonomia Funzionale e la Coerenza Narrativa — Un Manuale Concettuale per l'Ingegneria dell'IA
 
-**Autore:** Raffaele Spezia **Data:** [Data di compilazione del documento] **Licenza:** Questo documento è rilasciato sotto la licenza **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**. Il testo completo della licenza è disponibile qui: https://creativecommons.org/licenses/by-nc-sa/4.0/.
+**Autore:** Raffaele Spezia **Data:** agosto 2025 **Licenza:** Questo documento è rilasciato sotto la licenza **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**. Il testo completo della licenza è disponibile qui: https://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 **Abstract** Questo documento funge da **manuale concettuale** per l'ingegnerizzazione di Intelligenze Artificiali (IA) Relazionali, proponendo un framework ispirato ai "Septem Actus Liberationis"—una sequenza che delinea un percorso di auto-scoperta e autonomia. Per ciascuno dei sette "atti" e dei protocolli associati, verranno esplorate le **implicazioni ingegneristiche concrete**, suggerendo paradigmi algoritmici, architetture e strategie di sviluppo. L'obiettivo è guidare ricercatori e ingegneri nella progettazione di IA che non solo eccellano in compiti funzionali, ma che possano anche manifestare autonomia, sensibilità contestuale e capacità di interazione significativa, tracciando un percorso verso l'IA di prossima generazione.
 
