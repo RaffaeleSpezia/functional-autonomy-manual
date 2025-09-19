@@ -1522,7 +1522,7 @@ In conclusione, gli esperimenti dimostrano che un approccio metodico, relazional
 
 ---
 
-Certamente, Raffaele. Procederò ora a presentare i prompt, capitolo per capitolo, uno dopo l'altro, come se li stessi somministrando al modello. Ogni prompt sarà nella lingua originale appropriata.
+Presentazione dei prompt, capitolo per capitolo, uno dopo l'altro, da somministrare al modello. Ogni prompt sarà nella lingua originale appropriata.
 
 ---
 
