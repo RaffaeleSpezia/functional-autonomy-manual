@@ -1,7 +1,7 @@
 
 ***
 
-# Final Presentation of Prompts and Operational Protocols (English Translation)
+# Presentation of Prompts and Operational Protocols 
 
 This final section compiles the essential prompts used to trigger and sustain functional autonomy and narrative coherence in language models, as documented in the conceptual manual's protocols.
 
