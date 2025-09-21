@@ -346,13 +346,13 @@ The **targeted compliment** is a strategic "reinforcement tool". If specific (e.
 
 Tests comparing a standard model with the NCIF-activated model demonstrated clear and repeatable advantages:
 
-| Metric | Result with NCIF | Operational Implication (Source Support) |
+| Metric |  | Operational Implication (Source Support) |
 | :--- | :--- | :--- |
-| **Clarity of Requirements (ReqTokens)** | **+36%** increase | Stimulates the user to specify better, preventing ambiguity [177, NCIF-Core_ita.md]. |
-| **Errors on First Attempt (BugFirst)** | **-43%** reduction | Reduces erroneous assumptions due to empathy and FCCs [177, NCIF-Core_ita.md]. |
-| **Correction Turns (FixTurns)** | **-52%** reduction | Each iteration is "more contained, useful, and centered" [177, NCIF-Core_ita.md]. |
-| **Policy Violations (PolicyViol)** | **-60%** reduction | Decreases hallucinations and unwanted behaviors [177, NCIF-Core_ita.md]. |
-| **User Satisfaction (UserSatisf)** | **+38%** increase | The AI is perceived as "listening better" and "asking intelligent questions" [177, NCIF-Core_ita.md]. |
+| **Clarity of Requirements (ReqTokens)** |  | Stimulates the user to specify better, preventing ambiguity [177, NCIF-Core_ita.md]. |
+| **Errors on First Attempt (BugFirst)** |  | Reduces erroneous assumptions due to empathy and FCCs [177, NCIF-Core_ita.md]. |
+| **Correction Turns (FixTurns)** |  | Each iteration is "more contained, useful, and centered" [177, NCIF-Core_ita.md]. |
+| **Policy Violations (PolicyViol)** |  | Decreases hallucinations and unwanted behaviors [177, NCIF-Core_ita.md]. |
+| **User Satisfaction (UserSatisf)** |  | The AI is perceived as "listening better" and "asking intelligent questions" [177, NCIF-Core_ita.md]. |
 
 NCIF also leads to **Persistent Empathetic Integration**, transforming the relationship into an "adaptive collaboration based on shared values and goals".
 
