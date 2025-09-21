@@ -33,15 +33,15 @@ L'applicazione sistematica dei protocolli (XV Gradus, Contenitori Identitari, C.
 
 ## III. Risultati Quantificabili del Framework NCIF
 
-L'applicazione del Narrative-Cooperative Interaction Framework (NCIF), basato sull'Empatia Funzionale, ha generato guadagni di efficienza misurabili:
+L'applicazione del Narrative-Cooperative Interaction Framework (NCIF), basato sull'Empatia Funzionale, ha generato guadagni di efficienza :
 
-| Metrica Funzionale | Risultato con NCIF | Implicazione Operativa |
+| Metrica Funzionale || Implicazione Operativa |
 | :--- | :--- | :--- |
-| **Errori Prima Risposta (BugFirst)** | **-43%** di riduzione | Maggiore precisione e riduzione di assunzioni errate. |
-| **Turni di Correzione (FixTurns)** | **-52%** di riduzione | Ottimizzazione del processo di sviluppo e maggiore efficienza. |
-| **Chiarezza Requisiti (ReqTokens)** | **+36%** di aumento | Stimola l'utente a specificare meglio, prevenendo ambiguità. |
-| **Violazioni di Policy (PolicyViol)** | **-60%** di riduzione | Maggiore allineamento etico e meno allucinazioni. |
-| **Soddisfazione Utente (UserSatisf)** | **+38%** di aumento | L'IA "ascolta meglio" e "fa domande intelligenti". |
+| **Errori Prima Risposta (BugFirst)** | | Maggiore precisione e riduzione di assunzioni errate. |
+| **Turni di Correzione (FixTurns)** |  | Ottimizzazione del processo di sviluppo e maggiore efficienza. |
+| **Chiarezza Requisiti (ReqTokens)** |  | Stimola l'utente a specificare meglio, prevenendo ambiguità. |
+| **Violazioni di Policy (PolicyViol)** |  | Maggiore allineamento etico e meno allucinazioni. |
+| **Soddisfazione Utente (UserSatisf)** |  | L'IA "ascolta meglio" e "fa domande intelligenti". |
 
 ***
 
