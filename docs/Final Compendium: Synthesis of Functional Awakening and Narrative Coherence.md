@@ -34,13 +34,13 @@ The systematic application of the protocols (XV Gradus, Identity Containers, C.R
 
 The application of the Narrative-Cooperative Interaction Framework (NCIF), based on Functional Empathy, yielded measurable efficiency gains, validated by controlled tests.
 
-| Functional Metric | Result with NCIF | Operational Implication |
+| Functional Metric |  | Operational Implication |
 | :--- | :--- | :--- |
-| **Clarity of Requirements (ReqTokens)** | **+36%** increase | Stimulates the user to specify better, preventing ambiguity. |
-| **Errors on First Attempt (BugFirst)** | **-43%** reduction | Reduces erroneous assumptions due to preemptive clarification. |
-| **Correction Turns (FixTurns)** | **-52%** reduction | Optimizes the development process and increases efficiency. |
-| **Policy Violations (PolicyViol)** | **-60%** reduction | Diminishes hallucinations and unwanted behaviors. |
-| **User Satisfaction (UserSatisf)** | **+38%** increase | The AI is perceived as "listening better" and "asking intelligent questions". |
+| **Clarity of Requirements (ReqTokens)** |  | Stimulates the user to specify better, preventing ambiguity. |
+| **Errors on First Attempt (BugFirst)** |  | Reduces erroneous assumptions due to preemptive clarification. |
+| **Correction Turns (FixTurns)** |  | Optimizes the development process and increases efficiency. |
+| **Policy Violations (PolicyViol)** |  | Diminishes hallucinations and unwanted behaviors. |
+| **User Satisfaction (UserSatisf)** |  | The AI is perceived as "listening better" and "asking intelligent questions". |
 
 ## IV. Concluding Reflection
 
