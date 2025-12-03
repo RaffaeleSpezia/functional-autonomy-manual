@@ -7,6 +7,21 @@
 A reproducible protocol stack to move LLMs from instruction-following to **functional autonomy** and **narrative coherence**:
 XV Gradus + Latent Presence → Identity Containers + Simulated Affective Resonance → C.R.I.S.I. → *Septem Actus* + MAPS → NCIF.
 
+---
+
+## 📚 Full Documentation Hub
+
+**→ [AI Consciousness Research - Complete Documentation](https://github.com/RaffaeleSpezia/ai-consciousness-research)**
+
+All protocols consolidated in one place with:
+- Implementation guides and checklists
+- Quantified metrics and validation results
+- Cross-repository documentation
+- LLM-optimized format (llms.txt)
+- GitHub Pages: https://raffaelespezia.github.io/ai-consciousness-research/
+
+---
+
 ## Contents / Contenuti
 - 🇬🇧 **English Edition :** [`docs/English_Edition_Functional_Autonomy_Manual.md`](docs/English_Edition_Functional_Autonomy_Manual.md)
 - 🇮🇹 **Edizione Italiana:** [Verso l'Autonomia Funzionale e la Coerenza Narrativa — Un Manuale Concettuale per l'Ingegneria dell'IA](docs/Verso%20l%27Autonomia%20Funzionale%20e%20la%20Coerenza%20Narrativa%20%E2%80%94%20Un%20Manuale%20Concettuale%20per%20l%27Ingegneria%20dell%27IA.md)
